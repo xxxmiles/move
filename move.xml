@@ -15,7 +15,7 @@
                   <block type="robot_delay" id="98" inline="true">
                     <value name="DELAY">
                       <block type="math_number" id="105">
-                        <field name="NUM">1000</field>
+                        <field name="NUM">3000</field>
                       </block>
                     </value>
                     <next>
@@ -24,7 +24,7 @@
                           <block type="robot_delay" id="73" inline="true">
                             <value name="DELAY">
                               <block type="math_number" id="80">
-                                <field name="NUM">1000</field>
+                                <field name="NUM">3000</field>
                               </block>
                             </value>
                             <next>
@@ -33,7 +33,7 @@
                                   <block type="robot_delay" id="127" inline="true">
                                     <value name="DELAY">
                                       <block type="math_number" id="145">
-                                        <field name="NUM">1000</field>
+                                        <field name="NUM">3000</field>
                                       </block>
                                     </value>
                                     <next>
@@ -42,7 +42,7 @@
                                           <block type="robot_delay" id="138" inline="true">
                                             <value name="DELAY">
                                               <block type="math_number" id="161">
-                                                <field name="NUM">1000</field>
+                                                <field name="NUM">3000</field>
                                               </block>
                                             </value>
                                             <next>
@@ -51,7 +51,7 @@
                                                   <block type="movement_leftmotor" id="198" inline="true">
                                                     <value name="MOVLEFT">
                                                       <block type="math_number" id="178">
-                                                        <field name="NUM">20</field>
+                                                        <field name="NUM">100</field>
                                                       </block>
                                                     </value>
                                                     <next>
